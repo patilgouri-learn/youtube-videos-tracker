@@ -1,5 +1,5 @@
-from database import initialize_database, save_video
-from youtube_api import get_recent_videos
+from .database import initialize_database, save_video
+from .youtube_api import get_recent_videos
 
 
 SEARCH_QUERIES = [
