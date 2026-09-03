@@ -1,4 +1,4 @@
-from tracker import track_videos
+from src.tracker import track_videos
 
 
 def main():
